@@ -35,10 +35,10 @@ FBX version: 7500
     Scale x0.2220 applied to 1 mesh(es)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Console_GLB\Console.glb
 INFO Draco mesh compression is available, use library at C:\Program Files (x86)\Steam\steamapps\common\Blender\5.0\scripts\addons_core\io_scene_gltf2\extern_draco.dll
-21:05:16 | INFO: Starting glTF 2.0 export
-21:05:16 | INFO: Extracting primitive: Mesh
-21:05:16 | INFO: Primitives created: 1
-21:05:16 | INFO: Finished glTF 2.0 export in 0.21574711799621582 s
+21:34:05 | INFO: Starting glTF 2.0 export
+21:34:05 | INFO: Extracting primitive: Mesh
+21:34:05 | INFO: Primitives created: 1
+21:34:05 | INFO: Finished glTF 2.0 export in 0.23910260200500488 s
 
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Console_GLB\Console.glb
   SUCCESS: Console.glb
@@ -53,10 +53,10 @@ FBX version: 7500
   Applying real-world scale (x0.6870)...
     Scale x0.6870 applied to 1 mesh(es)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Digital_Camera_GLB\Digital_Camera.glb
-21:05:16 | INFO: Starting glTF 2.0 export
-21:05:16 | INFO: Extracting primitive: Mesh
-21:05:16 | INFO: Primitives created: 1
-21:05:16 | INFO: Finished glTF 2.0 export in 0.047826290130615234 s
+21:34:05 | INFO: Starting glTF 2.0 export
+21:34:05 | INFO: Extracting primitive: Mesh
+21:34:05 | INFO: Primitives created: 1
+21:34:05 | INFO: Finished glTF 2.0 export in 0.05266714096069336 s
 
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Digital_Camera_GLB\Digital_Camera.glb
   SUCCESS: Digital_Camera.glb
@@ -89,14 +89,14 @@ FBX version: 7500
     Multi-root: centered 'Flashlight', left others in place
       'Glass' kept at location (-0.11134124547243118, -3.0040741005876725e-09, -3.0040741005876725e-09) (relative to primary)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Flashlight_GLB\Flashlight.glb
-21:05:16 | INFO: Starting glTF 2.0 export
-21:05:16 | INFO: Extracting primitive: Mesh
-21:05:17 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
-21:05:17 | INFO: Primitives created: 1
-21:05:17 | INFO: Extracting primitive: Mesh.001
-21:05:17 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
-21:05:18 | INFO: Primitives created: 1
-21:05:18 | INFO: Finished glTF 2.0 export in 1.1615536212921143 s
+21:34:06 | INFO: Starting glTF 2.0 export
+21:34:06 | INFO: Extracting primitive: Mesh
+21:34:06 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:34:06 | INFO: Primitives created: 1
+21:34:06 | INFO: Extracting primitive: Mesh.001
+21:34:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:34:07 | INFO: Primitives created: 1
+21:34:07 | INFO: Finished glTF 2.0 export in 1.238668441772461 s
 
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Flashlight_GLB\Flashlight.glb
   SUCCESS: Flashlight.glb
@@ -111,10 +111,10 @@ FBX version: 7500
   Applying real-world scale (x0.0465)...
     Scale x0.0465 applied to 1 mesh(es)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Microphone_GLB\Microphone.glb
-21:05:18 | INFO: Starting glTF 2.0 export
-21:05:18 | INFO: Extracting primitive: Mesh
-21:05:18 | INFO: Primitives created: 1
-21:05:18 | INFO: Finished glTF 2.0 export in 0.04697537422180176 s
+21:34:07 | INFO: Starting glTF 2.0 export
+21:34:07 | INFO: Extracting primitive: Mesh
+21:34:07 | INFO: Primitives created: 1
+21:34:07 | INFO: Finished glTF 2.0 export in 0.04822540283203125 s
 
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Microphone_GLB\Microphone.glb
   SUCCESS: Microphone.glb
@@ -141,17 +141,17 @@ FBX version: 7500
       'Tune' kept at location (0.05243339017033577, -0.046940919011831284, -0.10399986058473587) (relative to primary)
       'Volume' kept at location (-0.05243363231420517, -0.046940919011831284, -0.10399986058473587) (relative to primary)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Radio_GLB\Radio.glb
-21:05:18 | INFO: Starting glTF 2.0 export
-21:05:18 | INFO: Extracting primitive: Mesh
-21:05:18 | INFO: Primitives created: 1
-21:05:18 | INFO: Extracting primitive: Mesh.001
-21:05:18 | INFO: Primitives created: 1
-21:05:18 | INFO: Extracting primitive: Mesh.002
-21:05:18 | INFO: Primitives created: 1
-21:05:18 | INFO: Extracting primitive: Mesh.003
-21:05:18 | WARNING: Mesh.003: Could not calculate tangents. Please try to triangulate the mesh first.
-21:05:18 | INFO: Primitives created: 1
-21:05:18 | INFO: Finished glTF 2.0 export in 0.07133793830871582 s
+21:34:07 | INFO: Starting glTF 2.0 export
+21:34:07 | INFO: Extracting primitive: Mesh
+21:34:07 | INFO: Primitives created: 1
+21:34:07 | INFO: Extracting primitive: Mesh.001
+21:34:07 | INFO: Primitives created: 1
+21:34:07 | INFO: Extracting primitive: Mesh.002
+21:34:07 | INFO: Primitives created: 1
+21:34:07 | INFO: Extracting primitive: Mesh.003
+21:34:07 | WARNING: Mesh.003: Could not calculate tangents. Please try to triangulate the mesh first.
+21:34:07 | INFO: Primitives created: 1
+21:34:07 | INFO: Finished glTF 2.0 export in 0.07336974143981934 s
 
 Warning: Mesh.003: Could not calculate tangents. Please try to triangulate the mesh first.
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Radio_GLB\Radio.glb
@@ -169,11 +169,11 @@ FBX version: 7500
   Applying real-world scale (x1.0000)...
     Scale: 1.000 (no correction needed)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Router_GLB\Router.glb
-21:05:18 | INFO: Starting glTF 2.0 export
-21:05:18 | INFO: Extracting primitive: Mesh
-21:05:18 | WARNING: Mesh: Could not calculate tangents. Please try to triangulate the mesh first.
-21:05:18 | INFO: Primitives created: 1
-21:05:18 | INFO: Finished glTF 2.0 export in 0.24253010749816895 s
+21:34:07 | INFO: Starting glTF 2.0 export
+21:34:07 | INFO: Extracting primitive: Mesh
+21:34:07 | WARNING: Mesh: Could not calculate tangents. Please try to triangulate the mesh first.
+21:34:08 | INFO: Primitives created: 1
+21:34:08 | INFO: Finished glTF 2.0 export in 0.21332454681396484 s
 
 Warning: Mesh: Could not calculate tangents. Please try to triangulate the mesh first.
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\Router_GLB\Router.glb
@@ -190,12 +190,12 @@ FBX version: 7500
   Applying real-world scale (x0.7060)...
     Scale x0.7060 applied to 2 mesh(es)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\SecurityCamera_GLB\SecurityCamera.glb
-21:05:19 | INFO: Starting glTF 2.0 export
-21:05:19 | INFO: Extracting primitive: Mesh
-21:05:20 | INFO: Primitives created: 1
-21:05:20 | INFO: Extracting primitive: Mesh.001
-21:05:20 | INFO: Primitives created: 1
-21:05:20 | INFO: Finished glTF 2.0 export in 0.7340054512023926 s
+21:34:08 | INFO: Starting glTF 2.0 export
+21:34:08 | INFO: Extracting primitive: Mesh
+21:34:09 | INFO: Primitives created: 1
+21:34:09 | INFO: Extracting primitive: Mesh.001
+21:34:09 | INFO: Primitives created: 1
+21:34:09 | INFO: Finished glTF 2.0 export in 0.7874186038970947 s
 
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\SecurityCamera_GLB\SecurityCamera.glb
   SUCCESS: SecurityCamera.glb
@@ -210,10 +210,10 @@ FBX version: 7500
   Applying real-world scale (x0.1770)...
     Scale x0.1770 applied to 1 mesh(es)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\USB_Stick_GLB\USB_Stick.glb
-21:05:20 | INFO: Starting glTF 2.0 export
-21:05:20 | INFO: Extracting primitive: Mesh
-21:05:20 | INFO: Primitives created: 1
-21:05:20 | INFO: Finished glTF 2.0 export in 0.1997082233428955 s
+21:34:09 | INFO: Starting glTF 2.0 export
+21:34:09 | INFO: Extracting primitive: Mesh
+21:34:09 | INFO: Primitives created: 1
+21:34:09 | INFO: Finished glTF 2.0 export in 0.1746997833251953 s
 
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\USB_Stick_GLB\USB_Stick.glb
   SUCCESS: USB_Stick.glb
@@ -228,11 +228,11 @@ FBX version: 7500
   Applying real-world scale (x0.0330)...
     Scale x0.0330 applied to 1 mesh(es)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\VR_Goggles_GLB\VR_Goggles.glb
-21:05:20 | INFO: Starting glTF 2.0 export
-21:05:20 | INFO: Extracting primitive: Mesh
-21:05:20 | WARNING: Mesh: Could not calculate tangents. Please try to triangulate the mesh first.
-21:05:20 | INFO: Primitives created: 1
-21:05:20 | INFO: Finished glTF 2.0 export in 0.16631484031677246 s
+21:34:09 | INFO: Starting glTF 2.0 export
+21:34:09 | INFO: Extracting primitive: Mesh
+21:34:09 | WARNING: Mesh: Could not calculate tangents. Please try to triangulate the mesh first.
+21:34:10 | INFO: Primitives created: 1
+21:34:10 | INFO: Finished glTF 2.0 export in 0.18904995918273926 s
 
 Warning: Mesh: Could not calculate tangents. Please try to triangulate the mesh first.
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\VR_Goggles_GLB\VR_Goggles.glb
@@ -251,11 +251,11 @@ FBX version: 7500
   Applying real-world scale (x1.3000)...
     Scale x1.3000 applied to 1 mesh(es)
   Exporting: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\WalkieTalkie_GLB\WalkieTalkie.glb
-21:05:20 | INFO: Starting glTF 2.0 export
-21:05:20 | INFO: Extracting primitive: Mesh
-21:05:21 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
-21:05:21 | INFO: Primitives created: 1
-21:05:21 | INFO: Finished glTF 2.0 export in 0.38545918464660645 s
+21:34:10 | INFO: Starting glTF 2.0 export
+21:34:10 | INFO: Extracting primitive: Mesh
+21:34:10 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:34:10 | INFO: Primitives created: 1
+21:34:10 | INFO: Finished glTF 2.0 export in 0.41588306427001953 s
 
   -> Written: C:\Users\Windows10_new\Downloads\Gadgets&Electronics\WalkieTalkie_GLB\WalkieTalkie.glb
   SUCCESS: WalkieTalkie.glb
